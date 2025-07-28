@@ -14,5 +14,7 @@ Este módulo implementa la funcionalidad básica de "Reservar Cita Médica" para
 - `main.py`: Punto de entrada para probar la funcionalidad.
 
 ## Cómo ejecutar
-```bash
-python main.py
+1. Abre una terminal (cmd o consola).
+2. Navega a la carpeta del proyecto:
+   ejecuta en la terminal: cd /MediMapp
+   ejecuta en la terminal: python main.py
